@@ -32,6 +32,9 @@ h3 {
 }
 .font{
     font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bold;
 }
 #font{
     font-style: italic;
