@@ -10,7 +10,7 @@
 {THTML and CSS }
 ## Support and contact details}
 moses.mwanzia@student.moringaschool.com
-##https://mosesvalei.github.io/My-favorite-Band/
+https://mosesvalei.github.io/My-favorite-Band/
 ### License
 *Licensed under [MIT LICENSE](LICENSE.txt)*
 Copyright (c) 2021 **Moses Valei Mwanzia**
