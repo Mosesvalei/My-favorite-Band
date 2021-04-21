@@ -1,8 +1,7 @@
 # {Linkin Park}
 #### {Linkin Park is an American rock band from Agoura Hills, California. The band plays the best kind of music. }, {April 19, 2020}
 #### By **{Moses Valei Mwanzia}**
-## {This application tests my skills in HTML and CSS languages. These languages are basic for programming and highly desirable. 
-the application is about my favorite band, Linkin Park. The application also familiarized use of git and Github as a webhost. }
+## {This application tests my skills in HTML and CSS languages. These languages are basic for programming and highly desirable. The application is about my favorite band, Linkin Park. The application also familiarized use of git and Github as a webhost. }
 ## Setup/Installation Requirements
 * Visual Studio Code
 * Chrome browser
